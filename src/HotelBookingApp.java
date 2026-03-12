@@ -230,7 +230,7 @@ class PersistenceService {
 
 
 // 6. Main Application
-public class UseCase12PersistenceRecovery {
+public class HotelBookingApp {
 
     public static void main(String[] args) {
 
